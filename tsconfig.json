@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "out", // put transpiled JS files in this folder
+    "sourceMap": true, // generate source map for debugging (stepping through)
+    "baseUrl": "./src", // this is the base URL for all relative paths that follow
+    "moduleResolution": "node"
+
+  },
+  "include": [
+    //include all files in this folder for transpiling
+    "src/**/*"
+  ],
+  "exclude": ["node_modules", "**/*.spec.ts"],
+  "lib": ["es2016", "dom", "es5"],
+}
