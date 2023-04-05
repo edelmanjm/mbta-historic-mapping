@@ -28,6 +28,7 @@ module.exports = {
     new CopyPlugin({
       patterns: [
         { from: 'src/index.html', to: 'index.html', toType: 'file' },
+        { from: 'assets/map.svg', to: 'map.svg', toType: 'file' },
       ]
     }),
   ],
