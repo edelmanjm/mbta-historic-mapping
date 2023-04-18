@@ -29,6 +29,7 @@ module.exports = {
       patterns: [
         { from: 'src/index.html', to: 'index.html', toType: 'file' },
         { from: 'assets/map.svg', to: 'map.svg', toType: 'file' },
+        { from: 'assets/export.geojson', to: 'export.geojson', toType: 'file' },
       ]
     }),
   ],
