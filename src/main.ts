@@ -18,11 +18,11 @@ async function main(): Promise<any> {
   //     tileSize: 256
   //   }).addTo(map);
 
-  // L.tileLayer('https://s3.us-east-2.wasabisys.com/urbanatlases/39999059011864/tiles/{z}/{x}/{y}.png', {
-  //   maxZoom: 19,
-  //   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  //   opacity: 0.5,
-  // }).addTo(map);
+  L.tileLayer("https://s3.us-east-2.wasabisys.com/urbanatlases/39999059011690/tiles/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    opacity: 0.5,
+  }).addTo(map);
 
   // L.imageOverlay('http://localhost:1234/map.svg',
   //   [[42.49325, -71.25774], [42.20630, -70.98950]]).addTo(map)
@@ -35,11 +35,16 @@ async function main(): Promise<any> {
   await addGeoJson("export", map);
 }
 
-
+function filterByDate(feature, cutoffDate: Date): boolean {
+  // If a segment has a start date built in, easy.
+  const start_date: string | null = feature.properties.start_date || feature.properties.opening_date;
+  const end_date: string = feature.properties.end_date;
+  return (start_date == null || new Date(start_date) <= cutoffDate) && (end_date == null || cutoffDate <= new Date(end_date));
+}
 
 async function addGeoJson(name: string, map: L.Map) {
 
-  const cutoffDate = new Date("2020");
+  const cutoffDate = new Date("1908");
 
   const allData = await fetch(`http://localhost:1234/${name}.geojson`)
     .then(res => res.json())
@@ -67,7 +72,11 @@ async function addGeoJson(name: string, map: L.Map) {
         }
 
         const station = feature.properties.station;
-        return station == "subway" || station == "light_rail" || station == "tram";
+        if (station == "subway" || station == "light_rail" || station == "tram") {
+          return filterByDate(feature, cutoffDate);
+        }
+
+        return false;
       },
       pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
@@ -98,14 +107,7 @@ async function addGeoJson(name: string, map: L.Map) {
           return false;
         }
 
-        // If a segment has a start date built in, easy.
-        const start_date: string | null = feature.properties.start_date || feature.properties.opening_date;
-        const end_date: string = feature.properties.end_date;
-        if ((start_date == null || new Date(start_date) <= cutoffDate) && (end_date == null || cutoffDate <= new Date(end_date))) {
-          return true;
-        } else {
-          return false;
-        }
+        return filterByDate(feature, cutoffDate);
 
         // If not, we'll have to check by looking at the nearest station[s]
         // TODO
