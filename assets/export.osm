@@ -1195,6 +1195,50 @@
     <tag k='wheelchair' v='yes' />
     <tag k='wikidata' v='Q2947194' />
   </node>
+  <node id='-151613' action='modify' visible='true' lat='42.35143012202' lon='-71.06102407515'>
+    <tag k='end_date' v='1919-01-04' />
+    <tag k='name' v='Beach Street' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151620' action='modify' visible='true' lat='42.35691271258' lon='-71.05064392358'>
+    <tag k='end_date' v='1938-09-30' />
+    <tag k='name' v='Rowes Wharf' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151626' action='modify' visible='true' lat='42.35986688934' lon='-71.05076328054'>
+    <tag k='end_date' v='1938-09-30' />
+    <tag k='name' v='State Street' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151631' action='modify' visible='true' lat='42.36655861397' lon='-71.05144724384'>
+    <tag k='end_date' v='1938-09-30' />
+    <tag k='name' v='Battery Street' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
   <node id='61366369' action='modify' timestamp='2021-11-13T20:06:19Z' uid='5778126' user='jdcarls2' visible='true' version='8' changeset='113743727' lat='42.3380078' lon='-71.1532599'>
     <tag k='crossing:barrier' v='no' />
     <tag k='railway' v='level_crossing' />
@@ -5369,7 +5413,7 @@
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
-    <tag k='start_date' v='1901-08-22' />
+    <tag k='start_date' v='1906-04-05' />
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
     <tag k='wheelchair' v='yes' />
