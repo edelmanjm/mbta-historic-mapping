@@ -64,24 +64,13 @@ function filterByDate(feature, cutoffDate: Date): boolean {
 
 async function addGeoJson(name: string, map: L.Map) {
 
-  const cutoffDate = new Date("1908");
+  const cutoffDate = new Date("1965");
 
   const allData = await fetch(`http://localhost:1234/${name}.geojson`)
     .then(res => res.json())
     .catch(err => {
       throw err;
     });
-
-  // This is a pretty crap way of finding the closest station, but it'll work for now
-  // Lots of the stations don't have a start_date, so we'll have to add it manually
-  // TODO
-  // const stationsByLine: Record<MbtaLine, []> = {
-  //   [MbtaLine.Green]: [],
-  //   [MbtaLine.Orange]: [],
-  //   [MbtaLine.Blue]: [],
-  //   [MbtaLine.Red]: [],
-  //   [MbtaLine.Other]: []
-  // }
 
   const stations = L.geoJSON(
     allData,
@@ -128,9 +117,6 @@ async function addGeoJson(name: string, map: L.Map) {
         }
 
         return filterByDate(feature, cutoffDate);
-
-        // If not, we'll have to check by looking at the nearest station[s]
-        // TODO
       }
     })
 
