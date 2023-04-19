@@ -2,6 +2,7 @@ import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { MbtaLine, MbtaLineInfoMap, stringToLine } from './mbta-line';
 import { Slider } from './leaflet-slider';
+import { Textbox } from './leaflet-textbox';
 
 async function main(): Promise<any> {
 
@@ -105,6 +106,12 @@ async function main(): Promise<any> {
       syncSlider: true,
     });
   slider.addTo(map);
+
+  // const tileOverlayInput = new Textbox({
+  //   text: "asdf",
+  //   position: 'bottomleft',
+  // });
+  // tileOverlayInput.addTo(map);
 }
 
 function filterByDate(feature, cutoffDate: Date): boolean {
