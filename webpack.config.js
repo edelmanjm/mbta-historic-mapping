@@ -28,7 +28,6 @@ module.exports = {
     new CopyPlugin({
       patterns: [
         { from: 'src/index.html', to: 'index.html', toType: 'file' },
-        { from: 'assets/map.svg', to: 'map.svg', toType: 'file' },
         { from: 'assets/export.geojson', to: 'export.geojson', toType: 'file' },
         { from: 'assets/A_Line.geojson', to: 'A_Line.geojson', toType: 'file' },
         { from: 'assets/Arborway.geojson', to: 'Arborway.geojson', toType: 'file' },
