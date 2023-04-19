@@ -47,12 +47,16 @@ async function main(): Promise<any> {
         return station == 'subway' || station == 'light_rail' || station == 'tram';
       },
       pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
-        radius: 8,
+        radius: 10,
         fillColor: '#FFFFFF',
         color: '#000000',
         weight: 1,
         opacity: 1,
         fillOpacity: 0.8,
+      }).bindTooltip(feature.properties.name, {
+        direction: 'top',
+        permanent: false,
+        className: "station-label",
       }),
     },
   );
@@ -74,6 +78,7 @@ async function main(): Promise<any> {
         return {
           stroke: show,
           fill: show,
+          // TODO fill color based on line
         };
       });
       rails.setStyle(feature => {
@@ -93,7 +98,7 @@ async function main(): Promise<any> {
       step: 1,
       id: 'slider',
       value: new Date().getFullYear(),
-      collapsed: true,
+      collapsed: false,
       title: 'MBTA Year',
       orientation: 'horizontal',
       showValue: true,
