@@ -393,6 +393,87 @@
   <node id='-146149' action='modify' visible='true' lat='42.35215948052' lon='-71.05416306173' />
   <node id='-149349' action='modify' visible='true' lat='42.35250877413' lon='-71.06531067708' />
   <node id='-149362' action='modify' visible='true' lat='42.3646168473' lon='-71.05967572832' />
+  <node id='-149752' action='modify' visible='true' lat='42.37043380042' lon='-71.07508421078' />
+  <node id='-149753' action='modify' visible='true' lat='42.37050018481' lon='-71.07528671756' />
+  <node id='-149754' action='modify' visible='true' lat='42.37055765184' lon='-71.07547044888' />
+  <node id='-149755' action='modify' visible='true' lat='42.37059034857' lon='-71.07560321823' />
+  <node id='-149756' action='modify' visible='true' lat='42.37061908205' lon='-71.07573464647' />
+  <node id='-149757' action='modify' visible='true' lat='42.37064682569' lon='-71.07588887483' />
+  <node id='-149758' action='modify' visible='true' lat='42.37068249481' lon='-71.07608467609' />
+  <node id='-149759' action='modify' visible='true' lat='42.37071420067' lon='-71.07632339269' />
+  <node id='-149760' action='modify' visible='true' lat='42.37073798005' lon='-71.07652187616' />
+  <node id='-149761' action='modify' visible='true' lat='42.37075383297' lon='-71.07659697801' />
+  <node id='-149762' action='modify' visible='true' lat='42.37078355718' lon='-71.07667744428' />
+  <node id='-149763' action='modify' visible='true' lat='42.3708330975' lon='-71.07679009706' />
+  <node id='-149764' action='modify' visible='true' lat='42.3712987746' lon='-71.07771009475' />
+  <node id='-149765' action='modify' visible='true' lat='42.37131462737' lon='-71.07775032789' />
+  <node id='-149766' action='modify' visible='true' lat='42.37132651695' lon='-71.07780933648' />
+  <node id='-149767' action='modify' visible='true' lat='42.37132849855' lon='-71.07786566287' />
+  <node id='-149768' action='modify' visible='true' lat='42.37131660897' lon='-71.07793003589' />
+  <node id='-149769' action='modify' visible='true' lat='42.3712948114' lon='-71.07797563344' />
+  <node id='-149770' action='modify' visible='true' lat='42.37126508743' lon='-71.07801854879' />
+  <node id='-149771' action='modify' visible='true' lat='42.37121356585' lon='-71.07805609971' />
+  <node id='-149772' action='modify' visible='true' lat='42.37114222821' lon='-71.07805609971' />
+  <node id='-149773' action='modify' visible='true' lat='42.37108476172' lon='-71.0780239132' />
+  <node id='-149774' action='modify' visible='true' lat='42.37104116642' lon='-71.07796758682' />
+  <node id='-149775' action='modify' visible='true' lat='42.37101342393' lon='-71.07789248496' />
+  <node id='-149776' action='modify' visible='true' lat='42.37098964465' lon='-71.07779056102' />
+  <node id='-149777' action='modify' visible='true' lat='42.37091632515' lon='-71.07718169957' />
+  <node id='-149778' action='modify' visible='true' lat='42.37090245388' lon='-71.07709855109' />
+  <node id='-149779' action='modify' visible='true' lat='42.37088065617' lon='-71.07700735599' />
+  <node id='-149780' action='modify' visible='true' lat='42.37085489523' lon='-71.07692957193' />
+  <node id='-149781' action='modify' visible='true' lat='42.37082517105' lon='-71.07685447007' />
+  <node id='-149782' action='modify' visible='true' lat='42.37078950202' lon='-71.07677936822' />
+  <node id='-149783' action='modify' visible='true' lat='42.37075383297' lon='-71.07669621974' />
+  <node id='-149784' action='modify' visible='true' lat='42.37072807198' lon='-71.0766238001' />
+  <node id='-149785' action='modify' visible='true' lat='42.37070825582' lon='-71.07654333383' />
+  <node id='-149786' action='modify' visible='true' lat='42.37065475217' lon='-71.07612222701' />
+  <node id='-149787' action='modify' visible='true' lat='42.37061313818' lon='-71.07587278157' />
+  <node id='-149788' action='modify' visible='true' lat='42.37056954255' lon='-71.07565820485' />
+  <node id='-149789' action='modify' visible='true' lat='42.3705180204' lon='-71.07545167476' />
+  <node id='-149790' action='modify' visible='true' lat='42.37041497597' lon='-71.07514053851' />
+  <node id='-149791' action='modify' visible='true' lat='42.37029805998' lon='-71.07485622436' />
+  <node id='-149793' action='modify' visible='true' lat='42.37088660001' lon='-71.07691884175' />
+  <node id='-149794' action='modify' visible='true' lat='42.37091037933' lon='-71.07698857918' />
+  <node id='-149795' action='modify' visible='true' lat='42.3709252414' lon='-71.07704624668' />
+  <node id='-149796' action='modify' visible='true' lat='42.37094505749' lon='-71.07715755835' />
+  <node id='-149797' action='modify' visible='true' lat='42.37101936776' lon='-71.0777664198' />
+  <node id='-149798' action='modify' visible='true' lat='42.3710312574' lon='-71.07783749834' />
+  <node id='-149799' action='modify' visible='true' lat='42.37104909185' lon='-71.07789784804' />
+  <node id='-149800' action='modify' visible='true' lat='42.37106692629' lon='-71.07793808118' />
+  <node id='-149801' action='modify' visible='true' lat='42.37109367795' lon='-71.07798501983' />
+  <node id='-149802' action='modify' visible='true' lat='42.37113132841' lon='-71.07800915971' />
+  <node id='-149803' action='modify' visible='true' lat='42.37117195125' lon='-71.07801854745' />
+  <node id='-149804' action='modify' visible='true' lat='42.37121752806' lon='-71.0780064775' />
+  <node id='-149805' action='modify' visible='true' lat='42.37125121525' lon='-71.07797965541' />
+  <node id='-149806' action='modify' visible='true' lat='42.37127895763' lon='-71.07793808118' />
+  <node id='-149807' action='modify' visible='true' lat='42.37129282881' lon='-71.07789114252' />
+  <node id='-149808' action='modify' visible='true' lat='42.3712987736' lon='-71.07783749834' />
+  <node id='-149809' action='modify' visible='true' lat='42.37129481041' lon='-71.07778519526' />
+  <node id='-149810' action='modify' visible='true' lat='42.37127103124' lon='-71.07772484556' />
+  <node id='-150022' action='modify' visible='true' lat='42.37089056422' lon='-71.07734263211'>
+    <tag k='addr:city' v='Cambridge' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='02141' />
+    <tag k='addr:state' v='MA' />
+    <tag k='addr:street' v='North First Street' />
+    <tag k='check_date' v='2022-10-23' />
+    <tag k='end_date' v='2020-05-24' />
+    <tag k='layer' v='2' />
+    <tag k='level' v='1' />
+    <tag k='light_rail' v='yes' />
+    <tag k='name' v='Lechmere' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='MBTA' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1922-07-10' />
+    <tag k='station' v='light_rail' />
+    <tag k='website' v='https://www.mbta.com/stops/place-lech' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wikidata' v='Q5972362' />
+    <tag k='wikipedia' v='en:Lechmere station' />
+  </node>
   <node id='61366369' action='modify' timestamp='2021-11-13T20:06:19Z' uid='5778126' user='jdcarls2' visible='true' version='8' changeset='113743727' lat='42.3380078' lon='-71.1532599'>
     <tag k='crossing:barrier' v='no' />
     <tag k='railway' v='level_crossing' />
@@ -2436,7 +2517,7 @@
     <tag k='railway' v='level_crossing' />
     <tag k='start_date' v='1932-10-23' />
   </node>
-  <node id='69489378' timestamp='2021-11-13T20:06:38Z' uid='5778126' user='jdcarls2' visible='true' version='20' changeset='113743737' lat='42.3517307' lon='-71.0712863'>
+  <node id='69489378' action='modify' timestamp='2021-11-13T20:06:38Z' uid='5778126' user='jdcarls2' visible='true' version='20' changeset='113743737' lat='42.3517307' lon='-71.0712863'>
     <tag k='level' v='-2' />
     <tag k='light_rail' v='yes' />
     <tag k='name' v='Arlington' />
@@ -2444,6 +2525,7 @@
     <tag k='operator' v='MBTA' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1921-11-13' />
     <tag k='station' v='light_rail' />
     <tag k='wheelchair' v='yes' />
     <tag k='wikidata' v='Q4792268' />
@@ -3908,7 +3990,7 @@
   <node id='69496941' action='modify' timestamp='2009-02-15T11:46:46Z' uid='1034' user='crschmidt' visible='true' version='5' changeset='448837' lat='42.3753689' lon='-71.0290953'>
     <tag k='start_date' v='1952-01-05' />
   </node>
-  <node id='69496958' timestamp='2021-11-13T20:06:38Z' uid='5778126' user='jdcarls2' visible='true' version='20' changeset='113743737' lat='42.3489438' lon='-71.0952999'>
+  <node id='69496958' action='modify' timestamp='2021-11-13T20:06:38Z' uid='5778126' user='jdcarls2' visible='true' version='20' changeset='113743737' lat='42.3489438' lon='-71.0952999'>
     <tag k='level' v='-2' />
     <tag k='light_rail' v='yes' />
     <tag k='name' v='Kenmore' />
@@ -3916,6 +3998,7 @@
     <tag k='operator' v='MBTA' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1932-10-23' />
     <tag k='station' v='light_rail' />
     <tag k='wikidata' v='Q6389462' />
   </node>
@@ -20959,7 +21042,7 @@
     <tag k='wheelchair' v='yes' />
     <tag k='wikidata' v='Q4845885' />
   </node>
-  <node id='5331967896' timestamp='2021-11-13T20:06:43Z' uid='5778126' user='jdcarls2' visible='true' version='5' changeset='113743737' lat='42.352474' lon='-71.0549737'>
+  <node id='5331967896' action='modify' timestamp='2021-11-13T20:06:43Z' uid='5778126' user='jdcarls2' visible='true' version='5' changeset='113743737' lat='42.352474' lon='-71.0549737'>
     <tag k='addr:city' v='Boston' />
     <tag k='addr:postcode' v='02110' />
     <tag k='addr:state' v='MA' />
@@ -20968,6 +21051,7 @@
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-08-22' />
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
     <tag k='website' v='https://www.mbta.com/' />
@@ -21209,13 +21293,14 @@
     <tag k='wikidata' v='Q5168628' />
     <tag k='wikipedia' v='en:Copley station' />
   </node>
-  <node id='5333814283' timestamp='2022-12-10T01:39:20Z' uid='9382561' user='Edward35' visible='true' version='10' changeset='129919712' lat='42.3667525' lon='-71.0678231'>
+  <node id='5333814283' action='modify' timestamp='2022-12-10T01:39:20Z' uid='9382561' user='Edward35' visible='true' version='10' changeset='129919712' lat='42.3667525' lon='-71.0678231'>
     <tag k='light_rail' v='yes' />
     <tag k='name' v='Science Park' />
     <tag k='network' v='MBTA' />
     <tag k='operator' v='MBTA' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1955-08-20' />
     <tag k='station' v='light_rail' />
     <tag k='website' v='https://www.mbta.com/stops/place-spmnl' />
     <tag k='wheelchair' v='yes' />
@@ -21318,7 +21403,7 @@
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
   </node>
-  <node id='5335456568' timestamp='2022-07-24T03:18:01Z' uid='10627331' user='ChillyDL' visible='true' version='12' changeset='123995147' lat='42.3532022' lon='-71.064534'>
+  <node id='5335456568' action='modify' timestamp='2022-07-24T03:18:01Z' uid='10627331' user='ChillyDL' visible='true' version='12' changeset='123995147' lat='42.3532022' lon='-71.064534'>
     <tag k='access' v='yes' />
     <tag k='addr:city' v='Boston' />
     <tag k='addr:postcode' v='02116' />
@@ -21348,6 +21433,7 @@
     <tag k='phone' v='+1-617-222-3200' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1897-09-01' />
     <tag k='station' v='light_rail' />
     <tag k='tunnel' v='yes' />
     <tag k='website' v='https://www.mbta.com/stops/place-boyls' />
@@ -21368,33 +21454,36 @@
     <tag k='public_transport' v='stop_position' />
     <tag k='railway' v='stop' />
   </node>
-  <node id='5336614722' timestamp='2020-08-07T00:30:52Z' uid='119881' user='clay_c' visible='true' version='3' changeset='89061948' lat='42.3620909' lon='-71.058025'>
+  <node id='5336614722' action='modify' timestamp='2020-08-07T00:30:52Z' uid='119881' user='clay_c' visible='true' version='3' changeset='89061948' lat='42.3620909' lon='-71.058025'>
     <tag k='light_rail' v='yes' />
     <tag k='name' v='Haymarket' />
     <tag k='network' v='MBTA' />
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1898-09-03' />
     <tag k='station' v='light_rail' />
   </node>
-  <node id='5336614723' timestamp='2021-11-13T20:06:43Z' uid='5778126' user='jdcarls2' visible='true' version='6' changeset='113743737' lat='42.3621193' lon='-71.0578172'>
+  <node id='5336614723' action='modify' timestamp='2021-11-13T20:06:43Z' uid='5778126' user='jdcarls2' visible='true' version='6' changeset='113743737' lat='42.3621193' lon='-71.0578172'>
     <tag k='name' v='Haymarket' />
     <tag k='network' v='MBTA' />
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1898-09-03' />
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
     <tag k='wheelchair' v='yes' />
     <tag k='wikidata' v='Q2913373' />
   </node>
-  <node id='5336634035' timestamp='2021-02-28T03:16:27Z' uid='485808' user='Alexey Lukin' visible='true' version='7' changeset='100122030' lat='42.3651771' lon='-71.0603228'>
+  <node id='5336634035' action='modify' timestamp='2021-02-28T03:16:27Z' uid='485808' user='Alexey Lukin' visible='true' version='7' changeset='100122030' lat='42.3651771' lon='-71.0603228'>
     <tag k='light_rail' v='yes' />
     <tag k='name' v='North Station' />
     <tag k='network' v='MBTA' />
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1898-09-03' />
     <tag k='station' v='light_rail' />
     <tag k='wheelchair' v='yes' />
   </node>
@@ -21405,12 +21494,13 @@
     <tag k='railway' v='stop' />
     <tag k='subway' v='yes' />
   </node>
-  <node id='5336634037' timestamp='2021-11-13T20:06:43Z' uid='5778126' user='jdcarls2' visible='true' version='6' changeset='113743737' lat='42.3652821' lon='-71.0601496'>
+  <node id='5336634037' action='modify' timestamp='2021-11-13T20:06:43Z' uid='5778126' user='jdcarls2' visible='true' version='6' changeset='113743737' lat='42.3652821' lon='-71.0601496'>
     <tag k='name' v='North Station' />
     <tag k='network' v='MBTA' />
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1912-06-01' />
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
     <tag k='wheelchair' v='yes' />
@@ -26205,7 +26295,7 @@
     <tag k='ref' v='70200' />
     <tag k='url' v='http://www.mbta.com/schedules_and_maps/subway/lines/stations/?stopId=13771' />
   </node>
-  <node id='6853725315' timestamp='2022-12-10T01:36:00Z' uid='9382561' user='Edward35' visible='true' version='8' changeset='129919668' lat='42.3596262' lon='-71.059488'>
+  <node id='6853725315' action='modify' timestamp='2022-12-10T01:36:00Z' uid='9382561' user='Edward35' visible='true' version='8' changeset='129919668' lat='42.3596262' lon='-71.059488'>
     <tag k='alt_name' v='Gov&apos;t Ctr' />
     <tag k='architect' v='HDR, Inc.' />
     <tag k='contact:website' v='https://www.mbta.com/stops/place-gover' />
@@ -26215,6 +26305,7 @@
     <tag k='operator' v='MBTA' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1898-09-03' />
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
     <tag k='website' v='https://www.mbta.com/stops/place-gover' />
@@ -31909,7 +32000,7 @@
     <tag k='operator:wikidata' v='Q171985' />
     <tag k='railway' v='subway' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
-    <tag k='start_date' v='1983-09-10' />
+    <tag k='start_date' v='1984-12-08' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
@@ -31942,7 +32033,7 @@
     <tag k='operator:wikidata' v='Q171985' />
     <tag k='railway' v='subway' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
-    <tag k='start_date' v='1983-09-10' />
+    <tag k='start_date' v='1984-12-08' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
@@ -31996,7 +32087,7 @@
     <tag k='operator:wikidata' v='Q171985' />
     <tag k='railway' v='subway' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
-    <tag k='start_date' v='1983-09-10' />
+    <tag k='start_date' v='1984-12-08' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
@@ -32570,6 +32661,85 @@
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
     <tag k='start_date' v='1898-09-03' />
     <tag k='tunnel' v='yes' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='-109163' action='modify' visible='true'>
+    <nd ref='1530484961' />
+    <nd ref='-149752' />
+    <nd ref='-149753' />
+    <nd ref='-149754' />
+    <nd ref='-149755' />
+    <nd ref='-149756' />
+    <nd ref='-149757' />
+    <nd ref='-149758' />
+    <nd ref='-149759' />
+    <nd ref='-149760' />
+    <nd ref='-149761' />
+    <nd ref='-149762' />
+    <nd ref='-149763' />
+    <nd ref='-149764' />
+    <nd ref='-149765' />
+    <nd ref='-149766' />
+    <nd ref='-149767' />
+    <nd ref='-149768' />
+    <nd ref='-149769' />
+    <nd ref='-149770' />
+    <nd ref='-149771' />
+    <nd ref='-149772' />
+    <nd ref='-149773' />
+    <nd ref='-149774' />
+    <nd ref='-149775' />
+    <nd ref='-149776' />
+    <nd ref='-149777' />
+    <nd ref='-149778' />
+    <nd ref='-149779' />
+    <nd ref='-149780' />
+    <nd ref='-149781' />
+    <nd ref='-149782' />
+    <nd ref='-149783' />
+    <nd ref='-149784' />
+    <nd ref='-149785' />
+    <nd ref='-149786' />
+    <nd ref='-149787' />
+    <nd ref='-149788' />
+    <nd ref='-149789' />
+    <nd ref='-149790' />
+    <nd ref='-149791' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='end_date' v='2020-05-24' />
+    <tag k='gauge' v='1435' />
+    <tag k='name' v='Green Line' />
+    <tag k='railway' v='light_rail' />
+    <tag k='start_date' v='1922-07-10' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='-109204' action='modify' visible='true'>
+    <nd ref='-149763' />
+    <nd ref='-149793' />
+    <nd ref='-149794' />
+    <nd ref='-149795' />
+    <nd ref='-149796' />
+    <nd ref='-149797' />
+    <nd ref='-149798' />
+    <nd ref='-149799' />
+    <nd ref='-149800' />
+    <nd ref='-149801' />
+    <nd ref='-149802' />
+    <nd ref='-149803' />
+    <nd ref='-149804' />
+    <nd ref='-149805' />
+    <nd ref='-149806' />
+    <nd ref='-149807' />
+    <nd ref='-149808' />
+    <nd ref='-149809' />
+    <nd ref='-149810' />
+    <nd ref='-149795' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='end_date' v='2020-05-24' />
+    <tag k='gauge' v='1435' />
+    <tag k='name' v='Green Line' />
+    <tag k='railway' v='light_rail' />
+    <tag k='start_date' v='1922-07-10' />
     <tag k='voltage' v='600' />
   </way>
   <way id='9267500' action='modify' timestamp='2023-03-07T02:33:15Z' uid='119881' user='clay_c' visible='true' version='12' changeset='133385597'>
@@ -34510,7 +34680,7 @@
     <tag k='start_date' v='1977-03-20' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='50266184' timestamp='2022-05-02T18:16:46Z' uid='2344498' user='hybridOL' visible='true' version='17' changeset='120473220'>
+  <way id='50266184' action='modify' timestamp='2022-05-02T18:16:46Z' uid='2344498' user='hybridOL' visible='true' version='17' changeset='120473220'>
     <nd ref='69480957' />
     <nd ref='69481856' />
     <nd ref='69482909' />
@@ -34531,6 +34701,7 @@
     <tag k='name' v='Green Line' />
     <tag k='railway' v='light_rail' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1912-06-01' />
     <tag k='voltage' v='600' />
   </way>
   <way id='59033559' action='modify' timestamp='2020-07-29T01:57:24Z' uid='119881' user='clay_c' visible='true' version='11' changeset='88645869'>
@@ -40954,7 +41125,7 @@
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='300088094' timestamp='2021-04-07T17:37:32Z' uid='9362695' user='VLD087' visible='true' version='16' changeset='102499123'>
+  <way id='300088094' action='modify' timestamp='2021-04-07T17:37:32Z' uid='9362695' user='VLD087' visible='true' version='16' changeset='102499123'>
     <nd ref='6049627736' />
     <nd ref='6049627738' />
     <nd ref='6049627743' />
@@ -40992,6 +41163,7 @@
     <tag k='name' v='non-revenue track' />
     <tag k='railway' v='light_rail' />
     <tag k='service' v='yard' />
+    <tag k='start_date' v='1932-10-23' />
   </way>
   <way id='300088865' action='modify' timestamp='2021-04-07T17:37:32Z' uid='9362695' user='VLD087' visible='true' version='17' changeset='102499123'>
     <nd ref='6047233707' />
@@ -41739,7 +41911,7 @@
     <tag k='operator:wikidata' v='Q171985' />
     <tag k='railway' v='subway' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
-    <tag k='start_date' v='1983-09-10' />
+    <tag k='start_date' v='1984-12-08' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
@@ -47066,7 +47238,7 @@
     <tag k='operator:wikidata' v='Q171985' />
     <tag k='railway' v='subway' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
-    <tag k='start_date' v='1983-09-10' />
+    <tag k='start_date' v='1984-12-08' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
@@ -50048,7 +50220,7 @@
     <tag k='tunnel' v='no' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='808229777' timestamp='2022-03-21T03:08:39Z' uid='485808' user='Alexey Lukin' visible='true' version='9' changeset='118716237'>
+  <way id='808229777' action='modify' timestamp='2022-03-21T03:08:39Z' uid='485808' user='Alexey Lukin' visible='true' version='9' changeset='118716237'>
     <nd ref='1530484885' />
     <nd ref='7680902376' />
     <tag k='attribution' v='Office of Geographic and Environmental Information (MassGIS)' />
@@ -50061,6 +50233,7 @@
     <tag k='name' v='Green Line' />
     <tag k='railway' v='light_rail' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1912-06-01' />
     <tag k='voltage' v='600' />
     <tag k='wikidata' v='Q152061' />
     <tag k='wikipedia' v='en:Green Line (MBTA)' />
@@ -50519,7 +50692,7 @@
     <tag k='tunnel' v='building_passage' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='822621503' timestamp='2022-12-16T13:27:37Z' uid='18069' user='Claudius Henrichs' visible='true' version='8' changeset='130156506'>
+  <way id='822621503' action='modify' timestamp='2022-12-16T13:27:37Z' uid='18069' user='Claudius Henrichs' visible='true' version='8' changeset='130156506'>
     <nd ref='7680902376' />
     <nd ref='7680902373' />
     <tag k='attribution' v='Office of Geographic and Environmental Information (MassGIS)' />
@@ -50533,9 +50706,10 @@
     <tag k='name' v='Green Line' />
     <tag k='railway' v='light_rail' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1912-06-01' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='822621504' timestamp='2022-03-21T03:08:39Z' uid='485808' user='Alexey Lukin' visible='true' version='8' changeset='118716237'>
+  <way id='822621504' action='modify' timestamp='2022-03-21T03:08:39Z' uid='485808' user='Alexey Lukin' visible='true' version='8' changeset='118716237'>
     <nd ref='7680902375' />
     <nd ref='1530484961' />
     <tag k='attribution' v='Office of Geographic and Environmental Information (MassGIS)' />
@@ -50548,11 +50722,12 @@
     <tag k='name' v='Green Line' />
     <tag k='railway' v='light_rail' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1912-06-01' />
     <tag k='voltage' v='600' />
     <tag k='wikidata' v='Q152061' />
     <tag k='wikipedia' v='en:Green Line (MBTA)' />
   </way>
-  <way id='822621505' timestamp='2022-12-16T13:27:37Z' uid='18069' user='Claudius Henrichs' visible='true' version='8' changeset='130156506'>
+  <way id='822621505' action='modify' timestamp='2022-12-16T13:27:37Z' uid='18069' user='Claudius Henrichs' visible='true' version='8' changeset='130156506'>
     <nd ref='7680902374' />
     <nd ref='7680902375' />
     <tag k='attribution' v='Office of Geographic and Environmental Information (MassGIS)' />
@@ -50566,9 +50741,10 @@
     <tag k='name' v='Green Line' />
     <tag k='railway' v='light_rail' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1912-06-01' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='822621506' timestamp='2022-12-09T20:43:45Z' uid='9382561' user='Edward35' visible='true' version='4' changeset='129914387'>
+  <way id='822621506' action='modify' timestamp='2022-12-09T20:43:45Z' uid='9382561' user='Edward35' visible='true' version='4' changeset='129914387'>
     <nd ref='7680902373' />
     <nd ref='69504958' />
     <nd ref='1530484887' />
@@ -50590,6 +50766,7 @@
     <tag k='name' v='Green Line' />
     <tag k='railway' v='light_rail' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1912-06-01' />
     <tag k='voltage' v='600' />
   </way>
   <way id='822773902' timestamp='2023-03-07T02:33:34Z' uid='119881' user='clay_c' visible='true' version='3' changeset='133385597'>
@@ -54923,7 +55100,7 @@
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='832690600' timestamp='2020-07-31T19:18:33Z' uid='119881' user='clay_c' visible='true' version='1' changeset='88795822'>
+  <way id='832690600' action='modify' timestamp='2020-07-31T19:18:33Z' uid='119881' user='clay_c' visible='true' version='1' changeset='88795822'>
     <nd ref='6042744638' />
     <nd ref='7773859500' />
     <tag k='attribution' v='Office of Geographic and Environmental Information (MassGIS)' />
@@ -54937,10 +55114,11 @@
     <tag k='railway' v='light_rail' />
     <tag k='railway:preferred_direction' v='forward' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1914-10-03' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='832690601' timestamp='2020-07-31T19:18:33Z' uid='119881' user='clay_c' visible='true' version='1' changeset='88795822'>
+  <way id='832690601' action='modify' timestamp='2020-07-31T19:18:33Z' uid='119881' user='clay_c' visible='true' version='1' changeset='88795822'>
     <nd ref='7773859501' />
     <nd ref='6042744631' />
     <tag k='attribution' v='Office of Geographic and Environmental Information (MassGIS)' />
@@ -54954,6 +55132,7 @@
     <tag k='railway' v='light_rail' />
     <tag k='railway:preferred_direction' v='forward' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1914-10-03' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
@@ -54976,7 +55155,7 @@
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='832690603' timestamp='2020-07-31T19:18:33Z' uid='119881' user='clay_c' visible='true' version='1' changeset='88795822'>
+  <way id='832690603' action='modify' timestamp='2020-07-31T19:18:33Z' uid='119881' user='clay_c' visible='true' version='1' changeset='88795822'>
     <nd ref='6042744638' />
     <nd ref='6042744633' />
     <nd ref='6042744641' />
@@ -54991,6 +55170,7 @@
     <tag k='railway' v='light_rail' />
     <tag k='railway:preferred_direction' v='forward' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1932-10-23' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
@@ -56121,7 +56301,7 @@
     <tag k='operator:wikidata' v='Q171985' />
     <tag k='railway' v='subway' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
-    <tag k='start_date' v='1983-09-10' />
+    <tag k='start_date' v='1984-12-08' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
