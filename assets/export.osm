@@ -1283,6 +1283,69 @@
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
   </node>
+  <node id='-151694' action='modify' visible='true' lat='42.30118247943' lon='-71.11225963175'>
+    <tag k='name' v='Forest Hills' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1987-05-04' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wikidata' v='Q2947194' />
+  </node>
+  <node id='-151722' action='modify' visible='true' lat='42.302' lon='-71.111'>
+    <tag k='end_date' v='1985-12-28' />
+    <tag k='light_rail' v='yes' />
+    <tag k='name' v='Arborway' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='MBTA' />
+    <tag k='public_transport' v='station' />
+    <tag k='start_date' v='1902-05-17' />
+    <tag k='station' v='light_rail' />
+    <tag k='wikidata' v='Q4839332' />
+  </node>
+  <node id='-151747' action='modify' visible='true' lat='42.353492' lon='-71.136586'>
+    <tag k='end_date' v='1969-06-21' />
+    <tag k='light_rail' v='yes' />
+    <tag k='name' v='Union Square' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='MBTA' />
+    <tag k='public_transport' v='station' />
+    <tag k='start_date' v='1932-10-23' />
+    <tag k='station' v='light_rail' />
+  </node>
+  <node id='-151756' action='modify' visible='true' lat='42.350667' lon='-71.168153'>
+    <tag k='end_date' v='1969-06-21' />
+    <tag k='light_rail' v='yes' />
+    <tag k='name' v='Oak Square' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='MBTA' />
+    <tag k='public_transport' v='station' />
+    <tag k='start_date' v='1932-10-23' />
+    <tag k='station' v='light_rail' />
+  </node>
+  <node id='-151760' action='modify' visible='true' lat='42.35756' lon='-71.18441'>
+    <tag k='end_date' v='1969-06-21' />
+    <tag k='light_rail' v='yes' />
+    <tag k='name' v='Newton Corner' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='MBTA' />
+    <tag k='public_transport' v='station' />
+    <tag k='start_date' v='1932-10-23' />
+    <tag k='station' v='light_rail' />
+  </node>
+  <node id='-151764' action='modify' visible='true' lat='42.364292' lon='-71.185544'>
+    <tag k='end_date' v='1969-06-21' />
+    <tag k='light_rail' v='yes' />
+    <tag k='name' v='Watertown' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='MBTA' />
+    <tag k='public_transport' v='station' />
+    <tag k='start_date' v='1932-10-23' />
+    <tag k='station' v='light_rail' />
+  </node>
   <node id='61366369' action='modify' timestamp='2021-11-13T20:06:19Z' uid='5778126' user='jdcarls2' visible='true' version='8' changeset='113743727' lat='42.3380078' lon='-71.1532599'>
     <tag k='crossing:barrier' v='no' />
     <tag k='railway' v='level_crossing' />
