@@ -1116,6 +1116,13 @@
   <node id='-151317' action='modify' visible='true' lat='42.38368799895' lon='-71.07229071021' />
   <node id='-151318' action='modify' visible='true' lat='42.38377517197' lon='-71.07244359612' />
   <node id='-151359' action='modify' visible='true' lat='42.38400163344' lon='-71.07290430669' />
+  <node id='-151364' action='modify' visible='true' lat='42.36660213929' lon='-71.05897747324' />
+  <node id='-151365' action='modify' visible='true' lat='42.36669535436' lon='-71.05879515544' />
+  <node id='-151366' action='modify' visible='true' lat='42.36676867879' lon='-71.05865165725' />
+  <node id='-151367' action='modify' visible='true' lat='42.36682119488' lon='-71.05855509773' />
+  <node id='-151368' action='modify' visible='true' lat='42.36688956482' lon='-71.05843171611' />
+  <node id='-151369' action='modify' visible='true' lat='42.36693514475' lon='-71.05835929647' />
+  <node id='-151370' action='modify' visible='true' lat='42.36702729536' lon='-71.05824530259' />
   <node id='61366369' action='modify' timestamp='2021-11-13T20:06:19Z' uid='5778126' user='jdcarls2' visible='true' version='8' changeset='113743727' lat='42.3380078' lon='-71.1532599'>
     <tag k='crossing:barrier' v='no' />
     <tag k='railway' v='level_crossing' />
@@ -33669,6 +33676,7 @@
     <nd ref='-150427' />
     <nd ref='-150426' />
     <nd ref='-150425' />
+    <nd ref='-151364' />
     <nd ref='-150407' />
     <nd ref='-150408' />
     <nd ref='-150409' />
@@ -34202,6 +34210,22 @@
     <nd ref='-151359' />
     <tag k='electrified' v='rail' />
     <tag k='end_date' v='1975-04-04' />
+    <tag k='gauge' v='1435' />
+    <tag k='name' v='Orange Line' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='-110189' action='modify' visible='true'>
+    <nd ref='-151364' />
+    <nd ref='-151365' />
+    <nd ref='-151366' />
+    <nd ref='-151367' />
+    <nd ref='-151368' />
+    <nd ref='-151369' />
+    <nd ref='-151370' />
+    <nd ref='-151067' />
+    <tag k='electrified' v='rail' />
+    <tag k='end_date' v='1938-09-30' />
     <tag k='gauge' v='1435' />
     <tag k='name' v='Orange Line' />
     <tag k='start_date' v='1901-06-10' />
