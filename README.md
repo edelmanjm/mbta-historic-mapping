@@ -8,7 +8,7 @@ Data:
 - [x] Most non-revenue tracks (not all)
 - [x] Modern station names and labels
 - [ ] Previous station names for modern stations
-- [ ] Stations that no longer exist
+- [ ] (**WIP)** Stations that no longer exist
 
 Features:
 - [x] Time slider to control what year is depicted in the map

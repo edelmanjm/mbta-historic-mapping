@@ -1127,6 +1127,74 @@
   <node id='-151452' action='modify' visible='true' lat='42.3652271175' lon='-71.06044978755' />
   <node id='-151468' action='modify' visible='true' lat='42.36576789299' lon='-71.06046684355' />
   <node id='-151489' action='modify' visible='true' lat='42.36579068188' lon='-71.0604433722' />
+  <node id='-151492' action='modify' visible='true' lat='42.34398445156' lon='-71.06588424325'>
+    <tag k='end_date' v='1987-04-30' />
+    <tag k='name' v='Dover' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151518' action='modify' visible='true' lat='42.33631186082' lon='-71.07719779149'>
+    <tag k='end_date' v='1987-04-30' />
+    <tag k='name' v='Northampton' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151521' action='modify' visible='true' lat='42.32954255716' lon='-71.08381480247'>
+    <tag k='end_date' v='1987-04-30' />
+    <tag k='name' v='Dudley' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151527' action='modify' visible='true' lat='42.31578458794' lon='-71.09824240744'>
+    <tag k='end_date' v='1987-04-30' />
+    <tag k='name' v='Egleston' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1909-11-22' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151544' action='modify' visible='true' lat='42.30942763719' lon='-71.10456303298'>
+    <tag k='end_date' v='1987-04-30' />
+    <tag k='name' v='Green Street' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1912-09-11' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151568' action='modify' visible='true' lat='42.30060121904' lon='-71.11321181327'>
+    <tag k='end_date' v='1987-04-30' />
+    <tag k='name' v='Forest Hills' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1909-11-22' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wikidata' v='Q2947194' />
+  </node>
   <node id='61366369' action='modify' timestamp='2021-11-13T20:06:19Z' uid='5778126' user='jdcarls2' visible='true' version='8' changeset='113743727' lat='42.3380078' lon='-71.1532599'>
     <tag k='crossing:barrier' v='no' />
     <tag k='railway' v='level_crossing' />
