@@ -1230,12 +1230,56 @@
   </node>
   <node id='-151631' action='modify' visible='true' lat='42.36655861397' lon='-71.05144724384'>
     <tag k='end_date' v='1938-09-30' />
-    <tag k='name' v='Battery Street' />
+    <tag k='name' v='Rowes Wharf' />
     <tag k='network' v='MBTA' />
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
     <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151638' action='modify' visible='true' lat='42.37170202736' lon='-71.06157258287'>
+    <tag k='end_date' v='1975-04-04' />
+    <tag k='name' v='City Square' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151646' action='modify' visible='true' lat='42.3752727413' lon='-71.06420114771'>
+    <tag k='end_date' v='1975-04-04' />
+    <tag k='name' v='Thompson Square' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1902-05-22' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151651' action='modify' visible='true' lat='42.38514266903' lon='-71.07437610894'>
+    <tag k='end_date' v='1975-04-04' />
+    <tag k='name' v='Sullivan Square' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1901-06-10' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='-151654' action='modify' visible='true' lat='42.39379776155' lon='-71.06811583176'>
+    <tag k='end_date' v='1975-04-04' />
+    <tag k='name' v='Everett' />
+    <tag k='network' v='MBTA' />
+    <tag k='operator' v='Massachusetts Bay Transportation Authority' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='start_date' v='1919-03-15' />
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
   </node>
