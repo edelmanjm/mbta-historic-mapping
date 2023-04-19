@@ -1,6 +1,7 @@
 import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { MbtaLine, MbtaLineInfoMap, stringToLine } from "./mbta-line";
+import { Slider } from "./leaflet-slider"
 async function main(): Promise<any> {
 
   const map = L.map("map").setView([42.34953, -71.07844], 18);
@@ -33,6 +34,25 @@ async function main(): Promise<any> {
   // await addGeoJson("1985_Alewife", "#EC1C24", map);
   // await addGeoJson("1987_SW_Corridor", "#F6921E", map);
   await addGeoJson("export", map);
+
+  const slider = new Slider(
+    function(value) {
+      console.log(value);
+    },
+    {
+      size: "500px",
+      min: 1895,
+      max: new Date().getFullYear(),
+      step: 1,
+      id: 'slider',
+      value: new Date().getFullYear(),
+      collapsed: true,
+      title: "MBTA Year",
+      orientation: 'horizontal',
+      showValue: true,
+      syncSlider: true
+    });
+  slider.addTo(map);
 }
 
 function filterByDate(feature, cutoffDate: Date): boolean {
