@@ -108,17 +108,17 @@ async function main(): Promise<any> {
         };
       });
       aLine.setStyle({
-          stroke: new Date('1932-10-23') <= selectedDate && selectedDate <= new Date('1969-06-02'),
-          color: MbtaLineInfoMap[MbtaLine.Green].color,
-          opacity: 1.00,
-        },
-      );
+        stroke: new Date('1932-10-23') <= selectedDate && selectedDate <= new Date('1969-06-02'),
+        color: MbtaLineInfoMap[MbtaLine.Green].color,
+        weight: 5,
+        opacity: 1.00,
+      });
       arborway.setStyle({
-          stroke: new Date('1941-02-16') <= selectedDate && selectedDate <= new Date('1985-12-28'),
-          color: MbtaLineInfoMap[MbtaLine.Green].color,
-          opacity: 1.00,
-        },
-      );
+        stroke: new Date('1941-02-16') <= selectedDate && selectedDate <= new Date('1985-12-28'),
+        color: MbtaLineInfoMap[MbtaLine.Green].color,
+        weight: 5,
+        opacity: 1.00,
+      });
     },
     {
       size: '500px',
