@@ -27,10 +27,10 @@ async function main(): Promise<any> {
     opacity: 0.5,
   }).addTo(map);
 
-  // L.imageOverlay('http://localhost:1234/map.svg',
+  // L.imageOverlay('map.svg',
   //   [[42.49325, -71.25774], [42.20630, -70.98950]]).addTo(map)
 
-  const allData = await fetch(`http://localhost:1234/export.geojson`)
+  const allData = await fetch(`export.geojson`)
     .then(res => res.json())
     .catch(err => {
       throw err;
@@ -70,13 +70,13 @@ async function main(): Promise<any> {
 
   // Pull these from different GeoJSON files since I haven't had time to trace more accurate versions in OSM
   const aLine = L.geoJSON(
-    await fetch(`http://localhost:1234/A_Line.geojson`)
+    await fetch(`A_Line.geojson`)
       .then(res => res.json())
       .catch(err => {
         throw err;
       }));
   const arborway = L.geoJSON(
-    await fetch(`http://localhost:1234/Arborway.geojson`)
+    await fetch(`Arborway.geojson`)
       .then(res => res.json())
       .catch(err => {
         throw err;
