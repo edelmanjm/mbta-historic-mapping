@@ -68,14 +68,30 @@ async function main(): Promise<any> {
       filter: feature => feature.geometry.type == 'LineString',
     });
 
+  // Pull these from different GeoJSON files since I haven't had time to trace more accurate versions in OSM
+  const aLine = L.geoJSON(
+    await fetch(`http://localhost:1234/A_Line.geojson`)
+      .then(res => res.json())
+      .catch(err => {
+        throw err;
+      }));
+  const arborway = L.geoJSON(
+    await fetch(`http://localhost:1234/Arborway.geojson`)
+      .then(res => res.json())
+      .catch(err => {
+        throw err;
+      }));
+
   rails.addTo(map);
+  aLine.addTo(map);
+  arborway.addTo(map);
   stations.addTo(map);
 
   const slider = new Slider(
     function(value) {
-      console.log(value);
+      const selectedDate = new Date(value);
       stations.setStyle(feature => {
-        const show: boolean = filterByDate(feature, new Date(value));
+        const show: boolean = filterByDate(feature, selectedDate);
         return {
           stroke: show,
           fill: show,
@@ -85,12 +101,24 @@ async function main(): Promise<any> {
       rails.setStyle(feature => {
         const line = stringToLine(feature.properties.name);
         return {
-          stroke: filterByDate(feature, new Date(value)),
+          stroke: filterByDate(feature, selectedDate),
           color: MbtaLineInfoMap[line].color,
           weight: line == MbtaLine.Other ? 2 : 5,
           opacity: 1.00,
         };
       });
+      aLine.setStyle({
+          stroke: new Date('1932-10-23') <= selectedDate && selectedDate <= new Date('1969-06-02'),
+          color: MbtaLineInfoMap[MbtaLine.Green].color,
+          opacity: 1.00,
+        },
+      );
+      arborway.setStyle({
+          stroke: new Date('1941-02-16') <= selectedDate && selectedDate <= new Date('1985-12-28'),
+          color: MbtaLineInfoMap[MbtaLine.Green].color,
+          opacity: 1.00,
+        },
+      );
     },
     {
       size: '500px',
