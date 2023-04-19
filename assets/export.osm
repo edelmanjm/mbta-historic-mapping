@@ -4902,7 +4902,7 @@
     <tag k='wheelchair' v='yes' />
     <tag k='wikidata' v='Q3660983' />
   </node>
-  <node id='69504996' timestamp='2022-04-16T23:53:06Z' uid='8482773' user='aweech' visible='true' version='11' changeset='119801326' lat='42.2519622' lon='-71.0054942'>
+  <node id='69504996' action='modify' timestamp='2022-04-16T23:53:06Z' uid='8482773' user='aweech' visible='true' version='11' changeset='119801326' lat='42.2519622' lon='-71.0054942'>
     <tag k='addr:city' v='Quincy' />
     <tag k='addr:housenumber' v='1300' />
     <tag k='addr:state' v='MA' />
@@ -4912,6 +4912,7 @@
     <tag k='operator' v='Massachusetts Bay Transportation Authority' />
     <tag k='public_transport' v='station' />
     <tag k='railway' v='station' />
+    <tag k='start_date' v='1971-09-01' />
     <tag k='station' v='subway' />
     <tag k='subway' v='yes' />
     <tag k='website' v='https://www.mbta.com/' />
@@ -52235,7 +52236,7 @@
     <tag k='start_date' v='1912-06-01' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='822773902' timestamp='2023-03-07T02:33:34Z' uid='119881' user='clay_c' visible='true' version='3' changeset='133385597'>
+  <way id='822773902' action='modify' timestamp='2023-03-07T02:33:34Z' uid='119881' user='clay_c' visible='true' version='3' changeset='133385597'>
     <nd ref='7681986200' />
     <nd ref='7681986198' />
     <nd ref='7681986199' />
@@ -52252,10 +52253,11 @@
     <tag k='railway' v='subway' />
     <tag k='service' v='crossover' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1904-12-30' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
-  <way id='822773903' timestamp='2023-03-07T02:33:34Z' uid='119881' user='clay_c' visible='true' version='3' changeset='133385597'>
+  <way id='822773903' action='modify' timestamp='2023-03-07T02:33:34Z' uid='119881' user='clay_c' visible='true' version='3' changeset='133385597'>
     <nd ref='7681986202' />
     <nd ref='7681986198' />
     <nd ref='7681986201' />
@@ -52272,6 +52274,7 @@
     <tag k='railway' v='subway' />
     <tag k='service' v='crossover' />
     <tag k='source' v='massgis_import_v0.1_20071013192438' />
+    <tag k='start_date' v='1904-12-30' />
     <tag k='tunnel' v='yes' />
     <tag k='voltage' v='600' />
   </way>
